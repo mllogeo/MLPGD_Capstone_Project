@@ -130,3 +130,6 @@ dmypy.json
 
 # Vscode Cache Files
 .vscode/
+
+# Private Data (AAA resources)
+./resources
